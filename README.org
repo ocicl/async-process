@@ -2,6 +2,6 @@
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/lem-project/async-process.git |
-| commit  | 7db34da                                              |
+| commit  | 4523298                                              |
 | systems | async-process                                        |
 |---------+------------------------------------------------------|
